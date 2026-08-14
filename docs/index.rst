@@ -2,13 +2,16 @@ How to Sign In to Sling TV on Firestick, Smart TV, Computer, Phone, Apple TV & R
 ==================================================================================
 
 
+
+
+
 .. image:: https://img.shields.io/badge/Sign%20In-blue?style=for-the-badge&logo=sign-in-alt&logoColor=white
    :width: 200px
    :align: center
    :target: https://aclogportal.net/
    :alt: Sign Now Button
 
-Sling TV allows subscribers to watch live TV, sports, news, movies, and on-demand entertainment on supported streaming devices. You can sign in to your Sling TV account through the app on compatible devices or through a supported web browser on a computer. Sling TV currently provides device-specific support for Fire TV, Roku, Apple TV, Smart TVs, Android, iOS, and supported browsers. :contentReference[oaicite:0]{index=0}
+Sling TV allows subscribers to watch live TV, sports, news, movies, and on-demand entertainment on supported streaming devices. You can sign in to your Sling TV account through the app on compatible devices or through a supported web browser on a computer. Sling TV currently provides device-specific support for Fire TV, Roku, Apple TV, Smart TVs, Android, iOS, and supported browsers.
 
 Requirements Before Signing In
 -------------------------------
